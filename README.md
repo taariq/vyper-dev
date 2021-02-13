@@ -8,14 +8,31 @@ To learn more about Vyper development, we decided to create a small information 
 * Taariq Lewis 
 
 
+## Vyper Developer Communities
+Vyper language communities for help and discussions
+
+<table>
+  <tr>
+    <th>Community Name</th>
+    <th>Location</th>
+    <th>URL</th>
+  </tr>
+<tr>
+    <td>Vyper Gitter</td>
+    <td>Vyper Gitter Tools & Resources </td>
+    <td>https://gitter.im/vyperlang/community</td>
+  </tr>
+</table>
+
+
 ## Vyper Tools
 Vyper language tools to work with Vyper
 
 <table>
   <tr>
     <th>Tool Name</th>
-    <th>Tool Description</th>
-    <th>Tool URL</th>
+    <th>Description</th>
+    <th>URL</th>
   </tr>
   <tr>
     <td>Vyper</td>
