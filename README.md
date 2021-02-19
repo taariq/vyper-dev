@@ -22,7 +22,13 @@ Vyper language communities for help and discussions
     <td>Vyper Gitter Tools & Resources </td>
     <td>https://gitter.im/vyperlang/community</td>
   </tr>
+<tr>
+    <td>Ethereum Python Community</td>
+    <td>Ethereum Python Community on Discord </td>
+    <td>https://discord.gg/ZpUkfMDZWV</td>
+  </tr>
 </table>
+
 
 
 ## Vyper Tools
